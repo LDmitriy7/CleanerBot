@@ -1,0 +1,6 @@
+account.session
+account.session-journal
+ids_db
+config.py
+venv
+__pycache__
